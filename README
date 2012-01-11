@@ -8,10 +8,10 @@ Requirements
 SQLite3 ( http://www.sqlite.org/ )
 
 Installation
-$ git clone git://github.com/Fadis/sqlitepp.git
+$ git clone git://github.com/Fadis/SQLitepp_CMake.git
 $ mkdir build
 $ cd build
-$ cmake ../sqlitepp -DCMAKE_INSTALL_PREFIX=<prefix>
+$ cmake ../SQLitepp_CMake -DCMAKE_INSTALL_PREFIX=<prefix>
 $ make
 $ make insetll
 
